@@ -4,7 +4,7 @@
 
 [**CrewAI**](https://crewai.net/) is a collaborative working system designed to enable various artificial intelligence agents to work together as a team to efficiently accomplish complex tasks.
 
-Suffice it to say that the documentation of [crewAI](https://docs.crewai.com/) is actually written by a crew!
+Suffice it to say that the documentation of [crewAI](https://docs.crewai.com/) is actually written by a crew 🤯!
 
 In this repo I've added all the practical examples explained in the insightful-short course introduced from DeepLearning.ai, [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction), and due to the code explained in the course depends on OpenAI token and I don't have a pro account, I've modified some line to use Google Gemeni API instead as it's free.
 
