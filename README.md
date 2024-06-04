@@ -1,4 +1,4 @@
-# crewAI
+# Hands-on crewAI
 
 ## About 
 
@@ -6,12 +6,13 @@
 
 Suffice it to say that the documentation of [crewAI](https://docs.crewai.com/) is actually written by a crew!
 
-In this repo I've added all the practical examples explained in the insightful-short course introduced from DeepLearning.ai, [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction), and due to the code explained in the course depends on OpenAI token and I don't have a pro account, I've modified some line to use Google Gemeni API instead as it's free!
+In this repo I've added all the practical examples explained in the insightful-short course introduced from DeepLearning.ai, [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction), and due to the code explained in the course depends on OpenAI token and I don't have a pro account, I've modified some line to use Google Gemeni API instead as it's free.
 
 
 ## Content
 
 - **L2**: contains a notebook that implements a nice multi-agent system to generate articles about a specific topic. It has three agents: `planner`, `writer`, and `editor` and tasks for each agent.
+- **L3**: contains a notebook that implements a simple multi-agent systm to help us to automate the customer support service.
 - 
 
 ## Usage
