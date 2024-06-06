@@ -2,7 +2,7 @@
 
 ## About 
 
-[**CrewAI**](https://crewai.net/) is a collaborative working system designed to enable various artificial intelligence agents to work together as a team to efficiently accomplish complex tasks.
+[**crewAI**](https://crewai.net/) is a collaborative working system designed to enable various artificial intelligence agents to work together as a team to efficiently accomplish complex tasks.
 
 Suffice it to say that the documentation of [crewAI](https://docs.crewai.com/) is actually written by a crew 🤯!
 
@@ -12,8 +12,10 @@ In this repo I've added all the practical examples explained in the insightful-s
 ## Content
 
 - **L2**: contains a notebook that implements a nice multi-agent system to generate articles about a specific topic. It has three agents: `planner`, `writer`, and `editor` and tasks for each agent.
-- **L3**: contains a notebook that implements a simple multi-agent systm to help us to automate the customer support service.
+- **L3**: contains a multi-agent system features a `Senior Support Representative Agent` that delivers friendly and thorough customer support, and a `Support Quality Assurance Specialist Agent` that ensures the quality and accuracy of the support provided, both aiming to enhance customer satisfaction and support standards.
+- **L4**: contains a multi-agent system includes a `Sales Representative Agent` that identifies high-value leads and a `Lead Sales Representative Agent` that nurtures these leads through personalized communication, both working towards enhancing the sales process.
 - 
+
 
 ## Usage
 
@@ -49,8 +51,11 @@ Steps to use this code on your machine:
     Create a `.env` file in the project root and add the following:
     ```
     GOOGLE_API_KEY=""
+    SERPER_API_KEY=""
     ```
-    Get your free API key from [here](https://ai.google.dev/gemini-api/docs/api-key)
+    - Get your free **Google** API key from [here](https://ai.google.dev/gemini-api/docs/api-key)
+    - Get your free **Serper** API key from [here](https://serper.dev/api-key)
+
 
 6. And now ensure to connect the notebook to your `venv` and try the code yourself.
 
