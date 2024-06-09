@@ -8,6 +8,8 @@ Suffice it to say that the documentation of [crewAI](https://docs.crewai.com/) i
 
 In this repo I've added all the practical examples explained in the insightful-short course introduced from DeepLearning.ai, [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction), and due to the code explained in the course depends on OpenAI token and I don't have a pro account, I've modified some line to use Google Gemeni API instead as it's free.
 
+I've finished this course successfully and get my badge from crewAI, you can check it: [**crewAI badge**](https://drive.google.com/file/d/1G6yycr-eDACw6dfJXS9HiuQ4h6BFebGC/view?usp=sharing).
+
 
 ## Content
 
